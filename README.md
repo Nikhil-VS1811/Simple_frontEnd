@@ -1,2 +1,2 @@
 # Simple_frontEnd
-Simple frontEnd projects
+Simple frontEnd project
